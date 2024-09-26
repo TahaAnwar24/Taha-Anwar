@@ -6,8 +6,7 @@ I am currently a Sophomore pursuing a Computer Science B.S. major at Temple Univ
 
 # Current Goals 📈
 **Internship  Opportunity**\
-I have cultivated a solid foundation in programming languages. making me well-equipped to handle the challenges of an internship.
-Additionally, my proactive involvement in relevant extracurricular activities and projects showcases my initiative
+I am currently working on project to increase AI accuracy using PyTorch in Python. I am also working on projects in Java implementing my growing knowledge of object-oriented programming and data structures.
 
 # Languages 🔧 
 <img align="left" alt="java" width = "30px" style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
