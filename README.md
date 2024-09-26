@@ -1,8 +1,8 @@
-# Jaime Manzueta👨‍💻
+# Taha Anwar
 
-**Student(Temple University)**
+**Student at Temple University**
 \
-I am currently a Sophomore who is a dedicated Computer Science major at Temple University with a keen interest in specializing in cybersecurity and data science. Im committed to gaining a deep understanding of computer systems, algorithms, and programming languages.
+I am currently a Sophomore pursuing a Computer Science B.S. major at Temple University's College of Science & Technology. I am interested in specializing in cybersecurity and/or AI and Machine Learning. 
 
 # Current Goals 📈
 **Internship  Opportunity**\
